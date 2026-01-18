@@ -18,7 +18,7 @@ body {
   padding-top: 90px; /* untuk navbar fixed */
 }
 
-/ ===== NAVBAR ===== */
+/* ===== NAVBAR ===== */
 .navbar {
   position: fixed;
   top: 0;
